@@ -10,4 +10,4 @@ Export your game for Web and copy the `server.py` file into the root of your exp
 
 run `python server.py` on the root folder. 
 
-Your game will be accessible at `localhost:8000`
+Your game will be accessible at `http://localhost:8000`
